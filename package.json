@@ -1,0 +1,16 @@
+{
+  "name": "pupperteer-unicarioca",
+  "version": "1.0.0",
+  "description": "Extract datas of Unicarioca to my schedule",
+  "main": "index.js",
+  "repository": "https://github.com/nomar113/pupperteer-unicarioca.git",
+  "author": "Ramon Mesquita <ramonmesquita113@gmail.com>",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/puppeteer": "^3.0.1"
+  }
+}
